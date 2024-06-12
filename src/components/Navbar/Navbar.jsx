@@ -21,7 +21,11 @@ const Navbar = () => {
     <nav className="flex justify-between items-center p-4 shadow-md bg-white dark:bg-slate-950">
       <div className="flex items-center space-x-4">
         <img src="/profile.jpeg" alt="Profile" className="w-12 h-12 rounded-full md:w-20 md:h-20" />
-        <h1 className="text-lg font-bold text-gray-800 dark:text-white">Hi, I'm Fawad</h1>
+        <h1 className="text-lg font-bold text-gray-800 dark:text-white">
+          <img 
+          src="/code.png" alt="icon-code"
+          className="w-8 h-8 cursor-pointer md:w-10 md:h-10"
+        /></h1>
       </div>
       <div className="hidden md:flex items-center space-x-4">
         <ul className="flex space-x-4">
