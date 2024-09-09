@@ -1,7 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faJs, faReact, faNodeJs, faGithub, faPython } from '@fortawesome/free-brands-svg-icons';
-import { faFlask } from '@fortawesome/free-solid-svg-icons';
 
 const projectData = [
   {
@@ -9,12 +8,6 @@ const projectData = [
     description: 'Developed website for the company as an intern of MERN stack.',
     techStack: [faNodeJs, faReact],
     repoLink: 'https://github.com/fawadahmad-lab/React_TwoGemsITSol',
-  },
-  {
-    title: 'Blogify',
-    description: 'A full stack blogging application where users can upload blogs about different topics and can comment on other blog posts.',
-    techStack: [faNodeJs, faJs],
-    repoLink: 'https://github.com/fawadahmad-lab/Blogify',
   },
   {
     title: 'Restful API',

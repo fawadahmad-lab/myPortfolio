@@ -8,8 +8,8 @@ const Certifications = () => {
       link: 'https://courses.cognitiveclass.ai/certificates/25f9ad42151a445ba6fd126858b722c1',
       image: '/images.png', 
       points: [
-        '. Completed coursework in Python programming for data science',
-        '. Learned data manipulation and analysis using Pandas        ',       
+        'Completed coursework in Python programming for data science',
+        'Learned data manipulation and analysis using Pandas        ',       
       ]
     },
     {
@@ -17,8 +17,8 @@ const Certifications = () => {
       link: 'https://courses.cognitiveclass.ai/certificates/5192cd595ad7472980a137a61a1ee472',
       image: '/images.png',
       points: [
-        '. Worked on data cleaning and preprocessing techniques',
-        '. Applied statistical analysis and data visualization',
+        'Worked on data cleaning and preprocessing techniques',
+        'Applied statistical analysis and data visualization',
       ]
     },
     {
@@ -26,7 +26,7 @@ const Certifications = () => {
       link: 'https://www.hackerrank.com/certificates/63a3d1acb8ee',
       image: 'HackerRank_logo.png', 
       points: [
-        '. SQL Basics'
+        'SQL Basics'
       ]
     },
   ];
